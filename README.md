@@ -1,2 +1,1 @@
-# MachineTest
-Machine Test Project
+# integration-test-demo
